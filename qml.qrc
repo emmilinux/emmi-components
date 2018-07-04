@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>bg.jpg</file>
+        <file>Icons/Close.png</file>
+        <file>Icons/Max.png</file>
+        <file>Icons/Min.png</file>
+        <file>main2.qml</file>
+        <file>main3.qml</file>
+        <file>Tab1.qml</file>
+        <file>Tab2.qml</file>
+    </qresource>
+</RCC>
