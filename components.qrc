@@ -30,5 +30,6 @@
         <file>Components/fontawesome-free-5.0.10/web-fonts-with-css/webfonts/fa-solid-900.woff</file>
         <file>Components/ProgressBar.qml</file>
         <file>Components/WindowDecoration.qml</file>
+	<file>Components/SelectList.qml</file>
     </qresource>
 </RCC>
